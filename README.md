@@ -2,6 +2,6 @@
 - 👀 I’m interested in Full Stack Development, Web Technologies, and AI/ML
 - 🌱 I’m currently learning React, Angular, Node.js, and Python for frontend and backend development  
 - 💞️ I’m looking to collaborate on open source web apps, AI projects, and innovative tech solutions
-- 📫 How to reach me: [sivaakthiindhiral@gmail.com] or connect with me on LinkedIn: [https://www.linkedin.com/in/indhira-siva-sakthi-b50209334/]
+- 📫 How to reach me: [sivasakthiindhiral@gmail.com] or connect with me on LinkedIn: [https://www.linkedin.com/in/indhira-siva-sakthi-b50209334/]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving coding puzzles and I’m passionate about turning ideas into real apps!
