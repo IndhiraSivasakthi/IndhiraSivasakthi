@@ -57,15 +57,14 @@
 
 ### 📺 Latest Project
 
-### 📺 Latest Project
-
 🚗 **Ride Sharing Application Using React and Hibernate**
 
 [![Project Repo](https://img.shields.io/badge/View%20Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/IndhiraSivasakthi/Ride-Sharing-Application-Using-React-and-Hibernate)
 
-![Project Thumbnail](https://raw.githubusercontent.com/IndhiraSivasakthi/Ride-Sharing-Application-Using-React-and-Hibernate/main/assests/bg.png)
+<img src="https://raw.githubusercontent.com/IndhiraSivasakthi/Ride-Sharing-Application-Using-React-and-Hibernate/main/assests/bg.png" width="400" />
 
 Check out my latest project where I built a full-stack ride-sharing app combining React frontend with Hibernate backend. Feel free to explore the code and contribute!
+
 
 ---
 
